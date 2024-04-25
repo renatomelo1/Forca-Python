@@ -1,0 +1,10 @@
+carro
+mato
+faculdade
+passaporte
+mala
+dente
+cabelo
+mochila
+procedural
+orientada
